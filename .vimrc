@@ -23,7 +23,7 @@ endfunction
 au FileChangedRO * nested :call <SID>CheckOutFile()
 "Enables Numbered Lines"
 set number
-"Sets color scheme to bloackboard"
+"Sets color scheme to blackboard"
 colorscheme blackboard
 
 "Sets tab standard"
